@@ -1,1 +1,1 @@
-# Kaggle-Understanding-the-Amazon-from-Space
+# Kaggle: Understanding the Amazon from Space
